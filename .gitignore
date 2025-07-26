@@ -206,5 +206,8 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 artifact/
-.ipynb
-notebook/
+# Ignore Jupyter notebooks and related files
+*.ipynb
+.ipynb_checkpoints/
+notebook/  # If you want to ignore the entire notebook folder
+
