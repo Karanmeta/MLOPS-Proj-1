@@ -1,6 +1,6 @@
 # Proj-1: End-to-End MLOps Pipeline for Vehicle Insurance Claim Prediction
 
-Welcome to **YT-MLops-Proj1**, an advanced, production-grade MLOps pipeline that demonstrates the full lifecycle of machine learning operations! This project transforms raw vehicle insurance data into actionable predictions, predicting whether a customer will file a claim. Built as a tutorial for aspiring ML engineers, it integrates cutting-edge tools for automation, scalability, and reliability—perfect for showcasing your skills to recruiters or collaborators.
+Welcome to **MLops Proj1**, an advanced, production-grade MLOps pipeline that demonstrates the full lifecycle of machine learning operations! This project transforms raw vehicle insurance data into actionable predictions, predicting whether a customer will file a claim. Built as a tutorial for aspiring ML engineers, it integrates cutting-edge tools for automation, scalability, and reliability—perfect for showcasing your skills to recruiters or collaborators.
 
 From data ingestion in MongoDB to model deployment on AWS via Docker and GitHub Actions, this repo highlights real-world MLOps techniques like CI/CD, cloud orchestration, and robust testing. It's not just a model; it's a complete ecosystem designed for seamless development, deployment, and monitoring.
 
